@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+aclImdb/
+tmp_model_1_weights
+data/
+models/
+model_1.h5
+oov_vector.p
